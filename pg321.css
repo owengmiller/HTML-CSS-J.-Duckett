@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #777777}
+p {
+    border: 5px solid #ee3e80;
+    padding: 20px;
+    width: 275px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkid-border-radius: 10px;}
